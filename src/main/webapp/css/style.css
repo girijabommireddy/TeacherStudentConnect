@@ -1,0 +1,36 @@
+
+body,html{
+	
+height:100%;
+width:100%;
+}
+
+ .body1 {
+  background-image: url("/resources/images/background.jpg");
+ 
+}
+ .header1
+ {
+ background-color: white;
+ }
+ 
+ 
+ .bg{
+ align:center;
+ padding-left:20%;
+padding-top: 5%;
+ }
+ .button{
+ background-color: gray;
+ }
+ .top{
+ background-image: url("/resources/images/tsc.jpg");
+ }
+
+ 
+ .error
+{
+color: red;
+}
+ 
+ 
